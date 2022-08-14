@@ -1,11 +1,11 @@
-pkg ubdate 
-Pkg upgrade
-Pkg install python
-Pkg install python2
-pip install requests
+pkg update
+pkg upgrade
+pkg install python
+pkg install git curl openssl
+termux-setup-storage
+pip install requests mechanize
 pip install bs4 futures
-git clone https://github.com/muhammadayaan1122/Fast
+git clone https://github.com/muhammadayan1122/Fast
 _clone
-cd Fast_clone
-chmod +x *
-python2 ayu.py
+cd $HOME/ayanbrand
+python ayubrand.py
