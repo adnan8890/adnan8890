@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @adnan8890
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-adnan8890/adnan8890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+pkg ubdate 
+Pkg upgrade
+Pkg install python
+Pkg install python2
+pip install requests
+pip install bs4 futures
+git clone https://github.com/muhammadayaan1122/Fast
+_clone
+cd Fast_clone
+chmod +x *
+python2 ayu.py
